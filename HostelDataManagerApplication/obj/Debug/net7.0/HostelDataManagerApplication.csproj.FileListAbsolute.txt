@@ -1,0 +1,15 @@
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\bin\Debug\net7.0\HostelDataManagerApplication.deps.json
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\bin\Debug\net7.0\HostelDataManagerApplication.dll
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\bin\Debug\net7.0\HostelDataManagerApplication.pdb
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\bin\Debug\net7.0\HostelDataManagerDomain.dll
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\bin\Debug\net7.0\HostelDataManagerDomain.pdb
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.csproj.CopyComplete
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.dll
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\refint\HostelDataManagerApplication.dll
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\HostelDataManagerApplication.pdb
+C:\Users\EmmanuelIlivieda\Desktop\Hotel_Management_System\HotelDataManager-master\HostelDataManagerApplication\obj\Debug\net7.0\ref\HostelDataManagerApplication.dll
