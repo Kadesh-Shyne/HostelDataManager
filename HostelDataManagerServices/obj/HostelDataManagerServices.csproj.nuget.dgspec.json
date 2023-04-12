@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServices\\HostelDataManagerServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\HostelDataManagerApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\HostelDataManagerApplication.csproj",
+        "projectName": "HostelDataManagerApplication",
+        "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\HostelDataManagerApplication.csproj",
+        "packagesPath": "C:\\Users\\EmmanuelIlivieda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EmmanuelIlivieda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\HostelDataManagerDomain.csproj": {
+                "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\HostelDataManagerDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\HostelDataManagerDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\HostelDataManagerDomain.csproj",
+        "projectName": "HostelDataManagerDomain",
+        "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\HostelDataManagerDomain.csproj",
+        "packagesPath": "C:\\Users\\EmmanuelIlivieda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EmmanuelIlivieda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\HostelDataManagerServiceContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\HostelDataManagerServiceContract.csproj",
+        "projectName": "HostelDataManagerServiceContract",
+        "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\HostelDataManagerServiceContract.csproj",
+        "packagesPath": "C:\\Users\\EmmanuelIlivieda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EmmanuelIlivieda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\HostelDataManagerShared.csproj": {
+                "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\HostelDataManagerShared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServices\\HostelDataManagerServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServices\\HostelDataManagerServices.csproj",
+        "projectName": "HostelDataManagerServices",
+        "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServices\\HostelDataManagerServices.csproj",
+        "packagesPath": "C:\\Users\\EmmanuelIlivieda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EmmanuelIlivieda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\HostelDataManagerApplication.csproj": {
+                "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerApplication\\HostelDataManagerApplication.csproj"
+              },
+              "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\HostelDataManagerServiceContract.csproj": {
+                "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerServiceContract\\HostelDataManagerServiceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\HostelDataManagerShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\HostelDataManagerShared.csproj",
+        "projectName": "HostelDataManagerShared",
+        "projectPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\HostelDataManagerShared.csproj",
+        "packagesPath": "C:\\Users\\EmmanuelIlivieda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmmanuelIlivieda\\Desktop\\Hotel_Management_System\\HotelDataManager-master\\HostelDataManagerShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EmmanuelIlivieda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
