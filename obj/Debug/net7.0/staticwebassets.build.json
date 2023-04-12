@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6tqdx6AyGd2P0BY2M427uH55FxPSdipRej+2g1RPdYk=",
+  "Source": "HostelDataManagerWebApi",
+  "BasePath": "_content/HostelDataManagerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
